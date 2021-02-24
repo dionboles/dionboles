@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Dion Boles
+I'm a software enginer that loves working with new technology. 
+- 🌱 I’m currently learning Next js and Starting some JAMStack projects
+😄 Pronouns: (He/Him)
 
 <!--
 **dionboles/dionboles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
